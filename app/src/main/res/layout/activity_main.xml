@@ -118,7 +118,7 @@
             android:layout_marginStart="31dp"
             android:layout_marginTop="35dp"
             android:onClick="launchCrearLista"
-            app:srcCompat="@mipmap/ic_botonAgregar_foreground" />
+             />
 
     </RelativeLayout>
 
