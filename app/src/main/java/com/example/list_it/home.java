@@ -1,15 +1,20 @@
 package com.example.list_it;
 
-import androidx.appcompat.app.AppCompatActivity;
+import android.os.Bundle;
+
 import androidx.fragment.app.Fragment;
 
-import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-public class soporteTecnico extends Fragment {
-    public soporteTecnico() {
+/**
+ * A simple {@link Fragment} subclass.
+ * Use the {@link home#newInstance} factory method to
+ * create an instance of this fragment.
+ */
+public class home extends Fragment {
+    public home() {
         // Required empty public constructor
     }
 
@@ -17,6 +22,7 @@ public class soporteTecnico extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
-        return inflater.inflate(R.layout.activity_soporte_tecnico, container, false);
+        return inflater.inflate(R.layout.fragment_home, container, false);
     }
+
 }

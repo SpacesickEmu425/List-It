@@ -50,7 +50,8 @@
     <string name="misionAceptadaAngel">Misión aceptada por Angel</string>
     <string name="misionAceptadaHabacuc">Misión aceptada por Habacuc</string>
     <string name="misionAceptadaAdrian">Misión aceptada por Adrian</string>
-
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 
 
 </resources>
