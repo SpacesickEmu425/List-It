@@ -37,7 +37,7 @@
         android:layout_height="44dp"
         android:text="@string/iniciar_sesi_n"
         android:layout_marginTop="200dp"
-
+        android:onClick="launchMainActivity"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/editTextTextPassword4" />
