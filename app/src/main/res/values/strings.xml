@@ -11,5 +11,46 @@
     <string name="nombre">Nombre</string>
     <string name="confirmar_e_mail">confirmar e-mail</string>
     <string name="confirm_password">confirmar contraseña</string>
+    <string name="requiere_presupuesto">¿Requiere un presupuesto?</string>
+    <string name="switchS">Switch</string>
+    <string name="tieneHoraCompletar">¿Tiene hora para completar?</string>
+    <string name="objetosOAcciones">Objetos o acciones de la lista</string>
+    <string name="nombreLista">Nombre de la lista</string>
+    <string name="tieneFechaCompletar">¿Tiene fecha para completar?</string>
+    <string name="misListas">Mis listas</string>
+    <string name="miembro">Miembro</string>
+    <string name="agregarMiembro">Agregar miembro</string>
+    <string name="quitarMiembro">Quitar miembro</string>
+    <string name="notificaciones">Notificaciones</string>
+    <string name="notificacionMiembro">Ha hecho una tarea</string>
+    <string name="vincularRedSocial">Vincular red social</string>
+    <string name="cambiarIdioma">Cambiar idioma</string>
+    <string name="apoyanos">Apoyanos</string>
+    <string name="clasificanosPlayStore">Calificanos en la Play Store</string>
+    <string name="creditos">Creditos</string>
+    <string name="terminosYCondiciones">Terminos y condiciones</string>
+    <string name="notasDeVersion">Notas de la version</string>
+    <string name="soporteTecnico">Soporte Tecnico</string>
+    <string name="numeroSuporte">449 123 4567</string>
+    <string name="contestamosTodosLosDias">Contestamos todos los dias!!</string>
+    <string name="FAQ">FAQ</string>
+    <string name="miAplicacionNoSirve">Mi aplicacion no sirve</string>
+    <string name="reinicieTelefono"> - Reinicie el telefono</string>
+    <string name="pantallaNegro">Pantalla en negro</string>
+    <string name="contactenos"> - Contactenos</string>
+    <string name="lista1">Lista 1</string>
+    <string name="ejemplo1">Ejemplo 1</string>
+    <string name="ejemplo2">Ejemplo 2</string>
+    <string name="ejemplo3">Ejemplo 3</string>
+    <string name="ejemplo4">Ejemplo 4</string>
+    <string name="ejemplo7">Ejemplo 7</string>
+    <string name="ejemplo6">Ejemplo 6</string>
+    <string name="ejemplo5">Ejemplo 5</string>
+    <string name="misionAceptadaYael">Misión aceptada por Yael</string>
+    <string name="misionAceptadaAngel">Misión aceptada por Angel</string>
+    <string name="misionAceptadaHabacuc">Misión aceptada por Habacuc</string>
+    <string name="misionAceptadaAdrian">Misión aceptada por Adrian</string>
+
+
 
 </resources>

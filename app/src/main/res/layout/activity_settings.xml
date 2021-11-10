@@ -23,7 +23,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="25dp"
-        android:text="Vincular red social"
+        android:text="@string/vincularRedSocial"
         app:layout_constraintStart_toEndOf="@+id/imageButton17"
         tools:layout_editor_absoluteY="290dp"
         tools:ignore="MissingConstraints" />
@@ -33,7 +33,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="25dp"
-        android:text="Cambiar idioma"
+        android:text="@string/cambiarIdioma"
         app:layout_constraintStart_toEndOf="@+id/imageButton16"
         tools:layout_editor_absoluteY="225dp"
         tools:ignore="MissingConstraints" />
@@ -124,7 +124,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="25dp"
-        android:text="Apoyanos"
+        android:text="@string/apoyanos"
         app:layout_constraintStart_toEndOf="@+id/imageButton15"
         tools:layout_editor_absoluteY="171dp"
         tools:ignore="MissingConstraints" />
@@ -134,7 +134,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="25dp"
-        android:text="Calificanos en la Play Store"
+        android:text="@string/clasificanosPlayStore"
         app:layout_constraintStart_toEndOf="@+id/imageButton18"
         tools:layout_editor_absoluteY="341dp"
         tools:ignore="MissingConstraints" />
@@ -144,7 +144,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="25dp"
-        android:text="Creditos"
+        android:text="@string/creditos"
         app:layout_constraintStart_toEndOf="@+id/imageButton19"
         tools:layout_editor_absoluteY="410dp"
         tools:ignore="MissingConstraints" />
@@ -154,7 +154,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="25dp"
-        android:text="Terminos y Condiciones"
+        android:text="@string/terminosYCondiciones"
         app:layout_constraintStart_toEndOf="@+id/imageButton20"
         tools:layout_editor_absoluteY="466dp"
         tools:ignore="MissingConstraints" />
@@ -164,7 +164,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="25dp"
-        android:text="Notas de la version"
+        android:text="@string/notasDeVersion"
         app:layout_constraintStart_toEndOf="@+id/imageButton21"
         tools:layout_editor_absoluteY="528dp"
         tools:ignore="MissingConstraints" />

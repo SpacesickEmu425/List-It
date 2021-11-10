@@ -21,7 +21,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="30dp"
-        android:text="Soporte Tecnico"
+        android:text="@string/soporteTecnico"
         android:textSize="24sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -43,7 +43,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="80dp"
         android:layout_marginEnd="190dp"
-        android:text="449 123 4567"
+        android:text="@string/numeroSuporte"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toEndOf="@+id/imageView9"
         app:layout_constraintTop_toBottomOf="@+id/tvSoporte" />
@@ -64,7 +64,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="30dp"
         android:layout_marginEnd="100dp"
-        android:text="Contestamos todos los dias!!"
+        android:text="@string/contestamosTodosLosDias"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/tvTeleNumber" />
 
@@ -72,7 +72,7 @@
         android:id="@+id/tvFAQ"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="FAQ"
+        android:text="@string/FAQ"
         android:textSize="24sp"
         tools:layout_editor_absoluteX="158dp"
         tools:layout_editor_absoluteY="414dp"
@@ -83,7 +83,7 @@
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginTop="20dp"
-        android:text="Mi aplicacion no sirve"
+        android:text="@string/miAplicacionNoSirve"
         app:layout_constraintTop_toBottomOf="@+id/tvFAQ"
         tools:layout_editor_absoluteX="72dp"
         tools:ignore="MissingConstraints" />
@@ -93,7 +93,7 @@
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginTop="10dp"
-        android:text=" - Reinicie el telefono"
+        android:text="@string/reinicieTelefono"
         app:layout_constraintTop_toBottomOf="@+id/tvQuestion1"
         tools:layout_editor_absoluteX="72dp"
         tools:ignore="MissingConstraints" />
@@ -103,7 +103,7 @@
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginTop="15dp"
-        android:text="Pantalla en negro"
+        android:text="@string/pantallaNegro"
         app:layout_constraintTop_toBottomOf="@+id/tvAnswer1"
         tools:layout_editor_absoluteX="72dp"
         tools:ignore="MissingConstraints" />
@@ -113,7 +113,7 @@
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginTop="10dp"
-        android:text=" - Contactenos"
+        android:text="@string/contactenos"
         app:layout_constraintTop_toBottomOf="@+id/tvQuestio2"
         tools:layout_editor_absoluteX="72dp"
         tools:ignore="MissingConstraints" />
